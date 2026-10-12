@@ -1,6 +1,6 @@
 # Hi, I'm Ezaan Khan
 
-**Founder and CEO** based in Melbourne, Australia.
+**Founder of Situs Web Design** based in Melbourne, Australia.
 
 I build fast, practical software: web apps, automation, and AI-powered tools that save people time.
 
